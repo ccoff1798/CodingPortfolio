@@ -8,18 +8,16 @@ This website is designed to show off my growing portfolio to any potential emplo
 Click around and have fun! The main link will link to my other project, the rest of the works are still in progress, so stay tuned and watch this page update!
 ## Links
 
-FILL THESE LATER!!
+Link to Repository
+https://github.com/ccoff1798/CodingPortfolio
 
-## Usage
+Deployed Site
+https://ccoff1798.github.io/CodingPortfolio/
 
-Provide instructions and examples for use. Include screenshots as needed.
+## Screenshot
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
 
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
-
+![photo of application](assets\images\CodingPortfolioPhoto.png)
 ## Credits
 
 This project is a solo project, with the help of my teachers in the Full stack bootcamp!
