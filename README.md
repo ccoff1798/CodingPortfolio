@@ -17,7 +17,7 @@ https://ccoff1798.github.io/CodingPortfolio/
 ## Screenshot
 
 
-![photo of application](.\assets\images\CodingPortfolioPhoto.png)
+![photo of application](./assets/images/CodingPortfolioPhoto.png)
 ## Credits
 
 This project is a solo project, with the help of my teachers in the Full stack bootcamp!
